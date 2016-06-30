@@ -5,7 +5,7 @@ export interface MultTabI {
      icon?:string;
      tabPage?:string;
      loadOn?:string;
-     activitieTab:boolean;
+     activitieTab?:boolean;
      componentToBeLoad?:any;
 
 
